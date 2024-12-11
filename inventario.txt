@@ -1,0 +1,9 @@
+----- Reporte de Inventario -----
+Fecha de generación: 2024-11-29
+
+com.inventario.productos.Electrodomestico@3b22cdd0
+com.inventario.productos.Electrodomestico@4d591d15
+com.inventario.productos.Electrodomestico@65ae6ba4
+com.inventario.productos.Alimento@48cf768c
+com.inventario.productos.Alimento@59f95c5d
+com.inventario.productos.Alimento@5ccd43c2
